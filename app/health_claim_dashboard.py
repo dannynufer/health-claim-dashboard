@@ -1,4 +1,3 @@
-# app/health_claim_dashboard.py
 
 import streamlit as st
 import pandas as pd
@@ -82,7 +81,7 @@ if st.sidebar.button("Predict Claim Amount"):
         unsafe_allow_html=True
     )
     
-    st.markdown("<br>", unsafe_allow_html=True)  # add a little breathing space
+    st.markdown("<br>", unsafe_allow_html=True)  
 
     st.markdown(
         f"<h4 style='color: white;'>Notes:</h4>", 
@@ -107,7 +106,7 @@ if st.sidebar.button("Predict Claim Amount"):
 
 # --- Footer ---
 
-st.markdown("---")  # horizontal line
+st.markdown("---")  
 
 st.markdown(
     """
