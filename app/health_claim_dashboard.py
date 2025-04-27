@@ -112,7 +112,7 @@ st.markdown(
     """
     <p style='text-align: center; font-size: 17px;'>
     Created by <strong>Danny Nufer</strong> | 
-    <a href='https://github.com/your-github-username/your-repo-name' target='_blank'>View on GitHub</a>
+    <a href='https://github.com/dannynufer/health-claim-dashboard' target='_blank'>View on GitHub</a>
     </p>
     """,
     unsafe_allow_html=True
