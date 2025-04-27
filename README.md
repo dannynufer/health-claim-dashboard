@@ -1,5 +1,13 @@
 # 🏥 Health Insurance Claim Predictor
 
+![Deployed with Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-red?logo=streamlit&style=flat-square)
+
+---
+
+## 📚 Overview
+
+...
+
 ---
 
 ## 📚 Overview
