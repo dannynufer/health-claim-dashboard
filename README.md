@@ -1,15 +1,6 @@
-# 🏥 Health Insurance Claim Predictor
-
-![Deployed with Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-red?logo=streamlit&style=flat-square)
+# 🏥 Health Insurance Claim Predictor      ![Deployed with Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-red?logo=streamlit&style=flat-square)
 
 ---
-
-## 📚 Overview
-
-...
-
----
-
 ## 📚 Overview
 
 This health insurance claim predictor was built in Python, utilizing the `pandas`, `numpy`, `statsmodels`, and `streamlit` libraries.  
